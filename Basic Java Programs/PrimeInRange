@@ -30,6 +30,6 @@ public class PrimeInRange {
                 System.out.print(i + " ");
             }
         }
-        scanner.close();
+       
     }
 }
